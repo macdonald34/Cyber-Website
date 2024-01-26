@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     padding: 0;
-    background-image: https://www.shutterstock.com/image-photo/cybersecurity-concept-user-privacy-security-encryption-2137304159;
+    background-image: image url("cyber.jpeg");
 }
 
 header {
@@ -33,7 +33,6 @@ section {
 footer {
     background-color: #333;
     color: #fff;
-    text-align: center;
     padding: 10px;
     position: fixed;
     bottom: 0;
