@@ -13,6 +13,10 @@ header {
     padding: 10px;
 }
 
+header3{
+    color: aqua;
+}
+
 nav {
     background-color: #444;
     color: #fff;
