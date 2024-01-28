@@ -13,10 +13,6 @@ header {
     padding: 10px;
 }
 
-header3{
-    color: aqua;
-}
-
 nav {
     background-color: #444;
     color: #fff;
@@ -30,15 +26,19 @@ nav a {
     margin-right: 10px;
 }
 
+image {
+    padding: 10px;
+
+}
+
 section {
     padding: 20px;
 }
 
 footer {
-    background-color: #333;
+    background-color: blueviolet;
     color: #fff;
     padding: 10px;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
